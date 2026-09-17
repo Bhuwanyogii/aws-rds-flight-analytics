@@ -2,7 +2,7 @@
 
 A Streamlit web app for exploring and visualizing flight data — search flights between cities and view interactive analytics on airline distribution, busiest airports, and daily flight trends. Data is stored in a MySQL database hosted on AWS RDS.
 
-🔗 **Live Demo:** _[add your Streamlit Cloud link here once deployed]_
+🔗 **Live Demo:** _[[add your Streamlit Cloud link here once deployed]_](https://aws-rds-flight-analytics-tyyecn8rcvga6bmhdt47db.streamlit.app/)
 
 ---
 
