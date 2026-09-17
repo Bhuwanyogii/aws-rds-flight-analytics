@@ -30,8 +30,9 @@ A Streamlit web app for exploring and visualizing flight data — search flights
 ---
 
 ## 📁 Project Structure
+
+```
 flights-sql-app/
-│
 ├── app.py              # Streamlit UI — search flights & analytics dashboard
 ├── dbhelper.py          # DB class — handles all MySQL queries
 ├── import_to_rds.py     # One-time script to load CSV data into AWS RDS
@@ -39,6 +40,7 @@ flights-sql-app/
 ├── requirements.txt     # Python dependencies
 ├── .env                 # Local environment variables (NOT committed — see setup)
 └── .gitignore
+```
 
 
 ---
